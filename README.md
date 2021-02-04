@@ -1,2 +1,7 @@
 # react-native-dating-app
-Dating app built on React Native with Redux 
+
+### Status: Work in progress
+
+Dating app built for capstone project at Seneca College on React Native with Redux 
+
+
